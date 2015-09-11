@@ -25,10 +25,8 @@ header{
 #main-menu.nav-pills>li.active>a{
 	color: rgb(255,10,10);
 	background-color: white;
-	font-weight: bold;
 }
 #main-menu.nav-pills>li.active>a:hover{
 	color: white;
 	background-color: rgb(255,10,10);
-	font-weight: bold;
 }
