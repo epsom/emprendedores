@@ -1,5 +1,7 @@
 --COSAS QUE HACER--
 
+****CUIDADO CON EL REVERTIR
+
 --3 diseños: 
 	1.- representar el Nosotros(Logo, slogan y cositas relacionadas con nosotros como empresa)
 	2.- representar el Servicio(Diseño que represente el servicio que ofrecemos, el boton de emergencia medica y la tecnologia)
