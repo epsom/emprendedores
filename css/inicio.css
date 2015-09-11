@@ -1,5 +1,6 @@
 #cuerpo{
 	position: relative;
+	width: 100%;
 }
 #inicio{
 	padding-top: 90px;
@@ -8,4 +9,9 @@
 #car{
 	height: 500px;
 	width: 100%;
+}
+
+/*Parrafos nosotros*/
+#org1, #org2, #org3{
+	text-align: center;
 }

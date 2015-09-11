@@ -51,11 +51,11 @@
 		<!-- Segunda seccion Nosotros-->
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12">
-					Emprendedores
-					<p>
+				<div class="col-xs-12" align="center">
+					Aqui va nuestra estructura organizacional
+					<p align="justify">
 						Aqui va la descripcion de nuestro proyecto
-					</p>
+					</p>	
 				</div>
 				<div class="col-xs-4" id="org1">
 					Aqui va la mision de la empresa
@@ -66,9 +66,35 @@
 				<div class="col-xs-4" id="or3g">
 					Aqui van los valores de la empresa
 				</div>
+				<div class="col-xs-12" align="center">
+					Aqui va nuestro organigrama(De preferencia pequeño y claro)
+				</div>
 			</div>
 		</div>
-	</div>
+
+		<!-- Tercera seccion Servicios-->
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12" align="center">
+					Aqui va nuestro servicio
+					<p align="justify">
+						Aqui va la descripcion de nuestro servicio
+					</p>	
+				</div>
+			</div>
+		</div>
+
+		<!-- Cuarta seccion proyectos futuros-->
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12" align="center">
+					Proyectos
+					<p align="justify">
+						Aqui va la propuesta de nuevos proyectos
+					</p>	
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<!--- Pie de pagina-->
