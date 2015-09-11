@@ -1,0 +1,32 @@
+header{
+	background-color: rgba(255,10,10,0.60);
+	color: rgb(255,255,255);
+	height: 90px;
+	width: 100%;
+	position: fixed;
+	z-index: 100;
+}
+
+#logo{
+	height: 70px;
+	margin-top: 5px;
+}
+
+#main-menu{
+	float: right;
+}
+#main-menu a{
+	color: white;
+}
+#main-menu a:hover{
+	background-color: white;
+	color: rgb(255,10,10);
+}
+#main-menu.nav-pills>li.active>a{
+	color: rgb(255,10,10);
+	background-color: white;
+}
+#main-menu.nav-pills>li.active>a:hover{
+	color: white;
+	background-color: rgb(255,10,10);
+}

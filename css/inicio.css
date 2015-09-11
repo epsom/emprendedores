@@ -1,0 +1,11 @@
+#cuerpo{
+	position: relative;
+}
+#inicio{
+	padding-top: 90px;
+}
+/*Carrusel*/
+#car{
+	height: 500px;
+	width: 100%;
+}
