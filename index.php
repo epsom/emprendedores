@@ -52,10 +52,23 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
-					Pachi es putito
+					Emprendedores
+					<p>
+						Aqui va la descripcion de nuestro proyecto
+					</p>
+				</div>
+				<div class="col-xs-4" id="org1">
+					Aqui va la mision de la empresa
+				</div>
+				<div class="col-xs-4" id="org2">
+					Aqui va la vision de la empresa
+				</div>
+				<div class="col-xs-4" id="or3g">
+					Aqui van los valores de la empresa
 				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 
 	<!--- Pie de pagina-->
