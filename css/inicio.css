@@ -2,7 +2,7 @@
 	position: relative;
 	width: 100%;
 }
-#inicio{
+#inicio, #nosotros, #servicios, #proyectos{
 	padding-top: 90px;
 }
 /*Carrusel*/
@@ -14,4 +14,43 @@
 /*Parrafos nosotros*/
 #org1, #org2, #org3{
 	text-align: center;
+}
+
+/*Login*/
+#login, #registro{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0,0,0, 0.80);
+	color: white;
+	z-index: 3;
+	display: none;
+}
+#datos{
+	width: 50%;
+	top: 15%;	left: 25%;
+	background-color: rgba(85,78,78,0.7);
+	border-radius: 3%;
+	color: white;
+	position: absolute;
+	z-index: 4;
+}
+#datosr{
+	width: 50%;
+	top: 10%;	left: 25%;
+	background-color: rgba(85,78,78,0.7);
+	border-radius: 3%;
+	color: white;
+	position: absolute;
+	z-index: 4;
+}
+#usuario, #pass#is, #is{
+	color: black;
+}
+.table{
+	width: 80%;
+}
+#nom, #ap, #am, #nick, #mail, #pass1, #pass2, #usuario, #pass{
+	width: 100%;
+	color: black;
 }

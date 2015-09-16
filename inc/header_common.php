@@ -8,5 +8,6 @@
 <link rel="stylesheet" href="css/cabecera.css">
 <link rel="stylesheet" href="css/inicio.css">
 <link rel="stylesheet" href="css/generales.css">
+<link rel="stylesheet" href="css/admnistrador.css">
 <!-- *********************************************************************-->
  

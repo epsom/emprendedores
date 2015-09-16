@@ -16,8 +16,11 @@
 			<!-- Columna central-->
 			<div class="col-xs-5">
 				<h3>Breve historia</h3>
-				<p>
-					Aqui ponemos nuestra historia
+				<p align="justify" id="thist">
+					Cardioheart nace como un proyecto emprendedor de jovenes veracruzanos que piensan que la tecnologia ofrece 
+					oportunidades de vivir a pacientes con enfermedades cardiovasculares, avisar de manera simultanea a familiares
+					y a instituciones medicas para recibir el servicio medico es la manera en que operamos. <br>
+
 				</p>
 			</div>
 			<!-- Columna derecha-->
@@ -42,7 +45,7 @@
 					</table>
 					<table>
 						<tr id="contactos">
-							<td>e-mail</td><td align="right">Aqui va el email</td>
+							<td>e-mail</td><td align="right">savinglivesemprendedores@gmail.com</td>
 						</tr>
 						<tr id="contactos">
 							<td>telefono</td><td align="right">Aqui va el telefono</td>

@@ -8,15 +8,17 @@
 				</div>
 			</div>
 			<div class="col-xs-10">
-				<h4 align="center">Aqui va el nombre de la empresa</h4>
+				<h4 align="center">Saving Lives</h4>
 				<ui class="nav nav-pills" align="right" id="main-menu">
-					<li><a href="#" id="">Inicio</a></li>
-					<li><a href="#" id="">Nosotros</a></li>
-					<li><a href="#" id="">Servicios</a></li>
-					<li><a href="#">Proyectos</a></li>
-					<li class="active"><a href="#" id="">Login/Signup</a></li>
+					<li><a href="#inicio" id="">Inicio</a></li>
+					<li><a href="#nosotros" id="">Nosotros</a></li>
+					<li><a href="#servicios" id="">Servicios</a></li>
+					<li><a href="#proyectos">Proyectos</a></li>
+					<li class="active"><a id="loginb">Login/Signup</a></li>
 				</ui>
 			</div>
 		</div>
 	</div>
 </header>
+
+<script src="../js/scripts.js"></script>

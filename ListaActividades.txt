@@ -19,3 +19,9 @@
 --crear base de datos	*sujeto  cambios
 	usuario		tipousuario		statususuario
 7***********************************************************************************************************************/
+--Cosas que nos hacen falta
+--TP-LINK TL-WR702N(Access point miniatura).
+--ESP8266(Modulo WiFi)
+--Led miniatura
+--Pushbutton micro(Boton miniatura)
+--Bateria 3.3v redonda
